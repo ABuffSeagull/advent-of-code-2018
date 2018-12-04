@@ -1,2 +1,2 @@
-project('part1', 'c')
-executable('part1', 'part1.c')
+project('day3', 'c')
+executable('day3', 'day3.c')
