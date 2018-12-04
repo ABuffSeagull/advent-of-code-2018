@@ -1,4 +1,5 @@
 (ns	day1.core
+	(:require clojure.string)
 	(:gen-class))
 
 (defn get-input
